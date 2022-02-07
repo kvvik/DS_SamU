@@ -12,7 +12,7 @@
 
 
 ## Лабораторные работы
-[Порядок сдачи лабораторных работ](GAMERULES.md) 
+- [Порядок сдачи лабораторных работ](GAMERULES.md) 
 0. [NumPy](tasks/lab_0_numpy_groupNumber_SecondName.ipynb)
 1. [Pandas](tasks/lab_1_pandas_groupNumber_SecondName.ipynb)
 2. [Визуализация данных](tasks/lab_2_visual_groupNumber_SecondName.ipynb)
