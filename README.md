@@ -17,6 +17,18 @@
 0. [NumPy](tasks/lab_0_numpy_groupNumber_SecondName.ipynb)
 1. [Pandas](tasks/lab_1_pandas_groupNumber_SecondName.ipynb)
 2. [Визуализация данных](tasks/lab_2_visual_groupNumber_SecondName.ipynb)
+3. Классификация в sklearn (многоклассовая, бинарная)
+4. Деревья решений (классификация, подбор гиперпараметров)
+5. Catboost (классификация, регрессия)
+6. Линейная регрессия в sklearn
+7. Основы tensorflow 
+8. Классификация/регрессия в tensorflow
+9. Деревья решений в tensorflow
+10. Tensorboard - средство визуализации в tensorflow
+11. Классификация текстов (с помощью TfIdf + LogisticRegression)
+12. Кластеризация
+13. Понижение размерности признакового пространства
+
 
 
 ## Требования к датасетам
