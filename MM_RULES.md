@@ -1,7 +1,8 @@
 # Регламент проведения ММ встреч
 **Цель ММ**: посмотреть на вашу проблему с разных строн, узнать о вариантах ее решения.
 
-- В [гугл-таблице](https://docs.google.com/spreadsheets/d/1kHYLZSGh6lg_oD0cNx9jGjGFKykrcCawz6OVULjXvoc/edit?usp=sharing) на листе "MM" добавлено разбиение на ММ группы
+- В [гугл-таблице для групп 6131-6133](https://docs.google.com/spreadsheets/d/1kHYLZSGh6lg_oD0cNx9jGjGFKykrcCawz6OVULjXvoc/edit?usp=sharing) на листе "MM" добавлено разбиение на ММ группы
+- В [гугл-таблице для групп 6306](https://docs.google.com/spreadsheets/d/187a_XkTKoSrReX-Sykr2MWWngtz3tuguYOFpfLG1KV0/edit?usp=sharing) на листе "MM" 21.02.22 будет добавлено разбиение на ММ группы
 - Создайте телеграмм-чат "DS_MM_<номер_ММ_группы>"  и пригласите туда всех участников вашего ММ, включая преподавателя
 
 ## Подготовка к ММ
