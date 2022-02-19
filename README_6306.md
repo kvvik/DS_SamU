@@ -1,33 +1,28 @@
-# Материалы курса "Инструменты анализа данных" 2022
+## Подготовка к лабораторным работам 
+- Познакомиться с языком программирования [Python 3](https://www.python.org/)
+- Научиться работать в [Jupyter Notebook](https://jupyter.org/)
+- Познакомиться с сервисом [Google Colaboratory](https://colab.research.google.com/?hl=ru)
 
-Для изучения курса вам потребуются: 
-
-- Python 3: https://www.python.org/
-- Библиотеки 
+Для изучения курса также вам потребуются следующие python-модули: 
 - numpy
 - pandas
 - sklearn
 - matplotlib
-- Jupyter-notebook
+- jupyter
+- и др. (установите в ходе изучения курса)
 
 
-## Лабораторные работы
-- [Информация для группы 6306](README_6306.md) (обновляется)
-- [Порядок сдачи лабораторных работ для групп 6131, 6132, 6133](GAMERULES.md) 
-0. [NumPy](tasks/lab_0_numpy_groupNumber_SecondName.ipynb)
-1. [Pandas](tasks/lab_1_pandas_groupNumber_SecondName.ipynb)
-2. [Визуализация данных](tasks/lab_2_visual_groupNumber_SecondName.ipynb)
-3. [Классификация в sklearn (многоклассовая, бинарная)](tasks/lab_3_classification_groupNumber_SecondName.ipynb)
-4. [Деревья решений](tasks/lab_4_trees_groupNumber_SecondName.ipynb) 
-5. Catboost (классификация, регрессия)
-6. Линейная регрессия в sklearn
-7. Основы tensorflow 
-8. Классификация/регрессия в tensorflow
-9. Деревья решений в tensorflow
-10. Tensorboard - средство визуализации в tensorflow
-11. Классификация текстов (с помощью TfIdf + LogisticRegression)
-12. Кластеризация
-13. Понижение размерности признакового пространства
+**Подготовительные задания:**
+- Установите Python 3 себе на компьютер. Скачать можно [здесь](https://www.python.org/downloads/)
+- Установите используемые в курсе модули. Одним из вариантов установки является команда `pip3 install <package_name>`. [Инструкция](https://docs.python.org/3/installing/index.html)
+- Изучите [инструкцию по запуску и работе jupyter](https://pythonru.com/baza-znanij/jupyter-notebook-dlja-nachinajushhih)
+- Используя документацию по [Python](https://docs.python.org/3/index.html) или гайд, выполните [подготовительную лабораторную работу](6306/lab_prep_python_groupNumber_SecondName.ipynb)
+- Изучите инструкцию по работе в Google Colaboratory [здесь](http://texno.info/etc/kratkoe-rukovodstvo-po-rabote-s-google-colab/). Вам не понадобится в данном курсе GPU, поэтому часть инструкции, описывающее возможности работы с GPU можно опустить. Вам необходимо научиться создавать новые ноутбуки в колабе, открывать ноутбуки с гугл диска, подключать гугл диск и подключать нужную вам директорю на гугл-диске.
+- Запустите выполненную подготовительную работу в Google Colaboratory.
+
+##Основные лабораторные работы:
+- [Порядок сдачи лабораторных работ для группы 6306](GAMERULES_6306.md) 
+0. [Numpy](tasks/lab_0_numpy_groupNumber_SecondName.ipynb)
 
 
 
@@ -35,8 +30,7 @@
 - Наличие числовых признаков, не только категориальных
 - Не использовать датасеты из лекций, titanic и iris датасеты
 - Датасеты не должны повторяться 
-- Датасет должен быть указан в [таблице](https://docs.google.com/spreadsheets/d/1kHYLZSGh6lg_oD0cNx9jGjGFKykrcCawz6OVULjXvoc/edit?usp=sharing)
-
+- Датасет должен быть указан в [таблице](https://docs.google.com/spreadsheets/d/187a_XkTKoSrReX-Sykr2MWWngtz3tuguYOFpfLG1KV0/edit?usp=sharing)
 
 ## Требования к оформлению лабораторных работ:
 - Лабораторные работы выполняются в jupyter-блокнотах, достаточно загрузить блокнот из данного репозитория и изменить имя файла
@@ -74,3 +68,5 @@
 * [Синтаксис markdown для Jupyter](https://sourceforge.net/p/jupiter/wiki/markdown_syntax/)
 * [NumPy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 * [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
+
+
