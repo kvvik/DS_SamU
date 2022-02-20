@@ -66,19 +66,19 @@ __Data scientist__ - обладает навыками двух предыдущ
 ___TBD: ссылки на источники ПО. Порядок получения лицензий и т.д.___
 Python:
 
-[https://www.python.org/downloads/](Выбрать версию интерпретатора Python).
+[Выбрать версию интерпретатора Python](https://www.python.org/downloads/).
 
-[https://www.jetbrains.com/ru-ru/community/education/#students](Бесплатная версия IDE для студентов) - потребуется получение персональной корпоративной почты в домене ssau.ru.
+[Бесплатная версия IDE для студентов](https://www.jetbrains.com/ru-ru/community/education/#students) - потребуется получение персональной корпоративной почты в домене ssau.ru.
 
 Jupiter Notebook:
 
-[https://jupyter.org/install](Установка Jupiter Notebook под Python)
+[Установка Jupiter Notebook под Python](https://jupyter.org/install)
 
-[https://colab.research.google.com/](Онлайн серфис от Google для создания Jupiter Notebook'ов) - можно не ставить среду разработки, все вычисления выполняются в облаке, могут быть особенности работы.
+[Онлайн серфис от Google для создания Jupiter Notebook'ов](https://colab.research.google.com/) - можно не ставить среду разработки, все вычисления выполняются в облаке, могут быть особенности работы.
 
 GitHub:
 
-[https://github.com/](Система контроля версий) - работает из под PyCharm и отдельно через браузер.
+[Система контроля версий](https://github.com/) - работает из под PyCharm и отдельно через браузер.
 
 ## 5. Порядок лекций.
 ___TBD: Порядок следующих лекци, объем и их расписание.___
