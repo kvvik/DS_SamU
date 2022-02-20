@@ -72,9 +72,9 @@ Python:
 
 Jupiter Notebook:
 
-[Установка Jupiter Notebook под Python](https://jupyter.org/install)
+[Установка Jupiter Notebook под Python](https://jupyter.org/install) - работает через браузер.
 
-[Онлайн серфис от Google для создания Jupiter Notebook'ов](https://colab.research.google.com/) - можно не ставить среду разработки, все вычисления выполняются в облаке, могут быть особенности работы.
+[Онлайн сервис от Google для создания Jupiter Notebook'ов](https://colab.research.google.com/) - можно не ставить среду разработки, все вычисления выполняются в облаке, могут быть особенности работы.
 
 GitHub:
 
