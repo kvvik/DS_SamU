@@ -16,7 +16,7 @@
 - Установите Python 3 себе на компьютер. Скачать можно [здесь](https://www.python.org/downloads/)
 - Установите используемые в курсе модули. Одним из вариантов установки является команда `pip3 install <package_name>`. [Инструкция](https://docs.python.org/3/installing/index.html)
 - Изучите [инструкцию по запуску и работе jupyter](https://pythonru.com/baza-znanij/jupyter-notebook-dlja-nachinajushhih)
-- Используя документацию по [Python](https://docs.python.org/3/index.html) или гайд, выполните [подготовительную лабораторную работу](6306/lab_prep_python_groupNumber_SecondName.ipynb)
+- Используя документацию по [Python](https://docs.python.org/3/index.html) или [шпаргалку](https://websitesetup.org/python-cheat-sheet/) (рекомендуется), выполните [подготовительную лабораторную работу](6306/lab_prep_python_groupNumber_SecondName.ipynb)
 - Изучите инструкцию по работе в Google Colaboratory [здесь](http://texno.info/etc/kratkoe-rukovodstvo-po-rabote-s-google-colab/). Вам не понадобится в данном курсе GPU, поэтому часть инструкции, описывающее возможности работы с GPU можно опустить. Вам необходимо научиться создавать новые ноутбуки в колабе, открывать ноутбуки с гугл диска, подключать гугл диск и подключать нужную вам директорю на гугл-диске.
 - Запустите выполненную подготовительную работу в Google Colaboratory.
 
@@ -65,6 +65,7 @@
 
 ## Полезные ссылки
 
+* [Python cheatsheet](https://websitesetup.org/python-cheat-sheet/)
 * [Синтаксис markdown для Jupyter](https://sourceforge.net/p/jupiter/wiki/markdown_syntax/)
 * [NumPy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 * [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
