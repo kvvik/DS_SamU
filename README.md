@@ -19,8 +19,8 @@
 2. [Визуализация данных](tasks/lab_2_visual_groupNumber_SecondName.ipynb)
 3. [Классификация в sklearn (многоклассовая, бинарная)](tasks/lab_3_classification_groupNumber_SecondName.ipynb)
 4. [Деревья решений](tasks/lab_4_trees_groupNumber_SecondName.ipynb) 
-5. Catboost (классификация, регрессия)
-6. Линейная регрессия в sklearn
+5. [Catboost (классификация, регрессия)](tasks/lab_5_catboost_groupNumber_SecondName.ipynb)
+6. [Линейная регрессия в sklearn](tasks/lab_6_linear_models_groupNumber_secondName.ipynb)
 7. Основы tensorflow 
 8. Классификация/регрессия в tensorflow
 9. Деревья решений в tensorflow
