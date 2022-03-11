@@ -21,13 +21,15 @@
 4. [Деревья решений](tasks/lab_4_trees_groupNumber_SecondName.ipynb) 
 5. [Catboost (классификация, регрессия)](tasks/lab_5_catboost_groupNumber_SecondName.ipynb)
 6. [Линейная регрессия в sklearn](tasks/lab_6_linear_models_groupNumber_secondName.ipynb)
-7. Основы tensorflow 
-8. Классификация/регрессия в tensorflow
-9. Деревья решений в tensorflow
-10. Tensorboard - средство визуализации в tensorflow
-11. Классификация текстов (с помощью TfIdf + LogisticRegression)
-12. Кластеризация
-13. Понижение размерности признакового пространства
+7. [Знакомство с Pytorch](tasks/lab_7_pytorch_groupNumber_secondName.ipynb) Туториалы: [pytorch](tasks/pytorch_and_logging/pytorch_part_1_basics.ipynb),
+   [pytorch-lightning](tasks/pytorch_and_logging/pytorch_part_2_lightning_basics.ipynb), [логирование с comet.ml](tasks/pytorch_and_logging/pytorch_part_3_experiments_logging_basics.ipynb)
+8. Основы tensorflow 
+9. Классификация/регрессия в tensorflow
+10. Деревья решений в tensorflow
+11. Tensorboard - средство визуализации в tensorflow
+12. Классификация текстов (с помощью TfIdf + LogisticRegression)
+13. Кластеризация
+14. Понижение размерности признакового пространства
 
 
 
