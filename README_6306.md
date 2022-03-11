@@ -24,6 +24,15 @@
 - [Порядок сдачи лабораторных работ для группы 6306](GAMERULES_6306.md) 
 0. [Numpy](tasks/lab_0_numpy_groupNumber_SecondName.ipynb)
 
+При выполнении следующих лабораторных работ могут быть полезными статьи/лекции:
+- [Статья про построение и отбор признаков (что такое признак, его виды)](https://proglib.io/p/postroenie-i-otbor-priznakov-chast-1-feature-engineering-2021-09-15)
+- [Туториал для начинающих](https://mlbootcamp.ru/ru/article/tutorial/) (можно выполнять параллельно с лабораторными работами)
+- [Видеолекция К.В. Воронцова](https://www.youtube.com/watch?v=qLBkB4sMztk)
+- [Лекции Воронцова по Машинному обучению](http://www.machinelearning.ru/wiki/images/6/6d/Voron-ML-1.pdf)  (изучить Основные понятия и определения)
+
+1. [Pandas](tasks/lab_1_pandas_groupNumber_SecondName.ipynb) 
+2. [Визуализация данных](tasks/lab_2_visual_groupNumber_SecondName.ipynb)
+
 
 
 ## Требования к датасетам
