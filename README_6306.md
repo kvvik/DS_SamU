@@ -32,6 +32,11 @@
 
 1. [Pandas](tasks/lab_1_pandas_groupNumber_SecondName.ipynb) 
 2. [Визуализация данных](tasks/lab_2_visual_groupNumber_SecondName.ipynb)
+3. [Классификация в sklearn (многоклассовая, бинарная)](tasks/lab_3_classification_groupNumber_SecondName.ipynb)
+4. [Деревья решений](tasks/lab_4_trees_groupNumber_SecondName.ipynb) 
+5. [Линейная регрессия в sklearn](tasks/lab_6_linear_models_groupNumber_secondName.ipynb)
+6. [Кластеризация](tasks/lab_8_clasterization_groupNumber_secondName.ipynb)
+7. [Понижение размерности признакового пространства](tasks/lab_9_dim_reduction_groupNumber_secondName.ipynb)
 
 
 
