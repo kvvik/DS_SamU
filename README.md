@@ -12,7 +12,7 @@
 
 
 ## Лабораторные работы
-- [Информация для группы 6306](README_6306.md) (обновляется)
+- [Информация для группы 6306](README_6306.md) 
 - [Порядок сдачи лабораторных работ для групп 6131, 6132, 6133](GAMERULES.md) 
 0. [NumPy](tasks/lab_0_numpy_groupNumber_SecondName.ipynb)
 1. [Pandas](tasks/lab_1_pandas_groupNumber_SecondName.ipynb)
@@ -25,11 +25,9 @@
    [pytorch-lightning](tasks/pytorch_and_logging/pytorch_part_2_lightning_basics.ipynb), [логирование с comet.ml](tasks/pytorch_and_logging/pytorch_part_3_experiments_logging_basics.ipynb)
 8. [Кластеризация](tasks/lab_8_clasterization_groupNumber_secondName.ipynb)
 9. [Понижение размерности признакового пространства](tasks/lab_9_dim_reduction_groupNumber_secondName.ipynb)
-10. Классификация текстов (с помощью TfIdf + LogisticRegression)
-11. Основы tensorflow 
-12. Классификация/регрессия в tensorflow
-13. Деревья решений в tensorflow
-14. Tensorboard - средство визуализации в tensorflow
+10. [Знакомство с Tensorflow](tasks/lab_10_tensorflow_groupNumber_secondName.ipynb) Туториалы: [Tensorflow часть 1](tasks/tensorflow/TensorFlow_Basics.ipynb), 
+[Tensorflow часть 2](tasks/tensorflow/TensorFlow_Intermediate.ipynb), [Tensorflow часть 3](tasks/tensorflow/TensorFlow_Advanced.ipynb) 
+11. Классификация текстов (с помощью TfIdf + LogisticRegression)
 
 
 
